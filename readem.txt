@@ -1,2 +1,2 @@
 Git is a distribute version control systry.
-Gie is free software.
+Gie is free software under the GPL.
